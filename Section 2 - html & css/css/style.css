@@ -48,3 +48,16 @@ body{
 	color: #ffffff;
 }
 
+#menu {
+	display: block;
+	float: left;
+	clear: both;
+	width: 960px;
+	height: 54px;
+}
+
+#menu ul {
+	list-style: none;
+	
+}
+
