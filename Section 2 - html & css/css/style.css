@@ -23,3 +23,10 @@ body{
 	width: 960px;
 	height: 85px;
 }
+
+#header h1 {
+	float: left;
+	color: #ffffff;
+	font-size: 43px;
+	padding: 20px 0 0 20px;
+}
