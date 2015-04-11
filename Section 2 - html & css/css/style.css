@@ -78,5 +78,31 @@ body{
 	text-align: center;
 	font-size: 15px;
 	font-weight: bold;
-	padding: 0 10px 0 10px;
+	padding: 0 13px 0 13px;
+}
+
+#leftmenu {
+	margin-top: 15px;
+	width: 190px;
+	float: left;
+	background: #1C478E;
+	border-radius: 10px;
+	padding: 15px 20px 10px 10px;
+}
+
+#leftmenu ul {
+	list-style: none;
+	padding: 0;
+}
+
+#leftmenu li {
+	list-style: none;
+	padding-top: 15px 0 8px 0;
+	border-bottom:1px dashed #fff;
+}
+
+#leftmenu h3 {
+	color: #ffffff;
+	padding-bottom: 8 px;
+	border-bottom: #fff solid 2px;
 }
