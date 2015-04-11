@@ -33,7 +33,16 @@ body{
 
 #header h2 {
 	float: right;
-	color: #ffffff;
+	color: #A9D1FA;
 	/* This is how padding works, it start at the top,then right, then bottom and then left. This is shorter than writing it all down in each line */
 	padding: 40px 20px 0 0;
 }
+
+#header h1 span.blue-text {
+	color: #67A0F5;
+
+
+}
+
+
+
