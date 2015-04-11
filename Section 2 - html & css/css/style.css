@@ -30,3 +30,10 @@ body{
 	font-size: 43px;
 	padding: 20px 0 0 20px;
 }
+
+#header h2 {
+	float: right;
+	color: #ffffff;
+	/* This is how padding works, it start at the top,then right, then bottom and then left. This is shorter than writing it all down in each line */
+	padding: 40px 20px 0 0;
+}
