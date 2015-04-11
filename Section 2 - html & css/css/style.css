@@ -58,6 +58,24 @@ body{
 
 #menu ul {
 	list-style: none;
-	
+	padding: 0;
+	margin-left: auto;
+	width: 960px;
 }
 
+#menu li {
+	list-style: none;
+	padding: 0;
+	display: inline;
+
+}
+
+#menu li a {
+	float: left;
+	color: #ffffff;
+	text-decoration: none;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 0 10px 0 10px;
+}
