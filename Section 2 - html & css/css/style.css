@@ -187,5 +187,8 @@ h3 {
 
 table.dev-table,table.dev-table tr, table.dev-table td, table.dev-table th {
 	font-size: 110%;
-	border-bottom: 1px dashed #000000;
+}
+
+dev-table tr, table.dev-table td {
+border-bottom: 1px dashed #000000;
 }
