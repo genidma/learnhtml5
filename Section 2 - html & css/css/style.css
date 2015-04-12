@@ -16,7 +16,7 @@ body{
 
 h2 {
 	padding-bottom: 10px;
-	
+
 }
 
 h3 {
@@ -154,4 +154,12 @@ h3 {
 
 .developer ul{
 	margin-bottom: 10px;
+	list-style: none;
+	padding:0;
+}
+
+.developer li {
+	list-style: none;
+	line-height: 1.7cm;
+
 }
