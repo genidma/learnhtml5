@@ -14,6 +14,23 @@ body{
 	background-repeat: repeat-x;
 }
 
+table, tr, td, th {
+	margin: 0;
+}
+
+table {
+	padding: 10px 0;
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	padding: 5px 20px 5px 20px;
+	padding: 5px 20px;
+}
+
 h2 {
 	padding-bottom: 10px;
 
