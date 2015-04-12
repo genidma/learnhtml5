@@ -45,9 +45,14 @@ h3 {
 	font-weight: bold;
 	padding: 10px 0;
 	color: #054dbc;
-
-
 }
+
+label {
+	display: inline-block;
+	width: 150px;
+}
+
+/* Main styles */
 
 #container{
 	width: 960px;
